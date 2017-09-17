@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter Login</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">NKmfmI7LCid4MwDdTdzpomdaR</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">wCkIZ3g4871aM34JshbmdCRLC4W4EqDUVjXpTOVzKjaem2TWBP</string>
+</resources>
